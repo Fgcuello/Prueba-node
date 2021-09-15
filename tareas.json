@@ -1,0 +1,18 @@
+[
+  {
+    "titulo": "cocinar",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "limpiar",
+    "estado": "hecho"
+  },
+  {
+    "titulo": "estudiar",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "estudiar",
+    "estado": "en proceso"
+  }
+]
